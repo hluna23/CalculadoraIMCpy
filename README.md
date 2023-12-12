@@ -1,5 +1,5 @@
 # CalculadoraIMCpy
-<img src="https://github.com/hluna23/CalculadoraIMCpy/assets/114502390/02fcdeb2-3934-44d2-b32d-c9241699cbf0"/>
+<img src="https://github.com/hluna23/CalculadoraIMCpy/assets/114502390/506f3f8b-8a03-49c5-89c1-26218980bb4d"/>
 Este é um projeto de calculadora de IMC em Python usando a biblioteca gráfica Tkinter.
 
 ## Requisitos
